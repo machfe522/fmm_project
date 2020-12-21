@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:app.xcodeproj">
+      location = "group:libfmm.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:/Users/luokuang/Documents/22_barefoot/fmm_project/build/libfmm.xcodeproj">
+      location = "group:app.xcodeproj">
    </FileRef>
 </Workspace>
